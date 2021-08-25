@@ -2,7 +2,7 @@
 
   Hi. I am Alexander - a student at Novosibirsk State University, I also work as a freelancer 💪. I also like to compete in hackathons and drink coffee ☕️.
 
-  #### My ❤️ fav technologies
+  ### My ❤️ fav technologies
 
   - Python
   - Django 
