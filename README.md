@@ -15,7 +15,7 @@
   - 2nd place in the sberbank ai academy hackathon 2018 [ [solution] ](https://github.com/furfa/Ai-academy-Final)
   - 9th place in the sberbank ai academy hackathon 2019 [ [solution] ](https://github.com/furfa/ai-academy-2019)
   - 2nd place in the top solutions lunar lander v2 in the open AI leaderboard [[solution]](https://github.com/furfa/LunarLander-v2-Solve)
-
-  - 1st place in regional vk hack.
+  - 1st place in regional vk hack
+  - 1st place Novosibirsk State Technical University ML hackaton [[solution]](https://github.com/furfa/nstu-hack)
 
   If you have an interesting task for me, ✍️write to telegram @furfa.
